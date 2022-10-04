@@ -1,6 +1,6 @@
 # Godotgame
 
-A project to test out the godot engine that uses a cellular automata algorithm to create the worlds. The game creates a save file of your highest score and to save your settings.  
+A project to test out the godot engine. The game uses a cellular automata algorithm to create the worlds. The game creates a save file of your highest score and to save your settings.  
   
 Controls:  
 backspace - to join  
