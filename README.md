@@ -11,6 +11,7 @@ x - swap special attack
 t - command line(win clears the enemies and spawns the portal)  
 z - changes the map  
 i - toggles invulnerability  
+e - inventory(does not do anything at the moment)
   
 Level up screen:  
 blue square - extra bullet  
